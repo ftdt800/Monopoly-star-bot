@@ -1,4 +1,7 @@
 # Monopoly star bot
+
+<img src="https://img.shields.io/github/last-commit/ftdt800/Monopoly-star-bot?style=for-the-badge">
+
 ### Bot for automatic gameplay at Monopoly Star
 
 ### Installation and running
